@@ -2,8 +2,7 @@ Hi 👋 My name is Tristán
 =====================
 
 ### Aka AceLord23
-<h1>Aka</h1>
-<a href="#">AceLord23#8021</a>
+<a href="#">Aka AceLord23#8021</a>
 -------------
 
 * 🌍  I'm based in Nederland, Limburg
