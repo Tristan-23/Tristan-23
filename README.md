@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tristan-23
+- 👋 Hi, I’m Tristán
 - 👀 I’m interested in Web Development, .JS & .Lua
 - 🌱 I’m currently learning Software Development at Gildeopleidingen 
 - 📫 How to reach me tristan.nouwens@student.gildeopleidingen.nl
