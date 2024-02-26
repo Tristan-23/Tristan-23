@@ -1,6 +1,6 @@
 Hi 👋 My name is Tristán
 =====================
-<a href="[#](https://github.com/AceLord23)">Aka AceLord23#8021</a>
+<a href="https://github.com/AceLord23">Aka AceLord23#8021</a>
 =====================
 
 * 🌍  I'm based in Nederland, Limburg
