@@ -1,8 +1,7 @@
 Hi 👋 My name is Tristán
 =====================
 
-### Aka AceLord23
-<div display='none'>
+<div display='flex'>
   <p>Aka</p>
   <a>AceLord23#8021</a>
 </div>
