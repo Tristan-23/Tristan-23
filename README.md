@@ -57,9 +57,7 @@ Hi 👋 My name is Tristán
    --->
 </p>
 
-### Badges
-
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <a href="https://www.github.com/Tristan-23" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/Tristan-23?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
