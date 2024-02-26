@@ -1,10 +1,6 @@
 Hi 👋 My name is Tristán
 =====================
 
-<div display='flex'>
-  <p>Aka</p>
-  <a>AceLord23#8021</a>
-</div>
 <a href="#">Aka AceLord23#8021</a>
 -------------
 
