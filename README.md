@@ -64,10 +64,12 @@ Hi 👋 My name is Tristán
 <a href="https://www.github.com/Tristan-23" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/Tristan-23?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
+</br>
 
 <a href="http://www.github.com/Tristan-23">
   <img src="https://github-readme-stats.vercel.app/api?username=Tristan-23&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="Tristan-23's GitHub stats" />
 </a>
+</br>
 
 <a href="http://www.github.com/Tristan-23">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tristan-23&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
