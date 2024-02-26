@@ -5,9 +5,9 @@ Hi 👋 My name is Tristán
 -------------
 
 * 🌍  I'm based in Nederland, Limburg
-<!--- * 🖥️  See my portfolio at [my website](http://mrdeurmat.dev/) --->
 * ✉️  You can contact me at [tristan.nouwens@student.gildeopleidingen.nl](mailto:tristan.nouwens@student.gildeopleidingen.nl)
 * 🧠  I'm learning Software Development at Gildeopleidingen
+<!--- * 🖥️  See my portfolio at [my website](http://mrdeurmat.dev/) --->
 <!--- * 🤝  I'm open to collaborating on FiveM Projects --->
 
 ### Skills
