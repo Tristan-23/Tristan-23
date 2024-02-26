@@ -68,6 +68,12 @@ src="https://img.shields.io/github/followers/danielcranney?logo=github&style=for
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/KianVR"><img src="https://github-readme-stats.vercel.app/api?username=KianVR&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="KianVR's GitHub stats" /></a>
+<a href="http://www.github.com/Tristan-23"><img src="https://github-readme-stats.vercel.app/api?username=KianVR&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="Tristan-23's GitHub stats" /></a>
 
-<a href="http://www.github.com/KianVR"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KianVR&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Tristan-23"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KianVR&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
+### Support Me
+ <!---
+<a href="https://www.buymeacoffee.com/danielcranney"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+ --->
