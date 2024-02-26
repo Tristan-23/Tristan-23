@@ -1,8 +1,7 @@
 Hi 👋 My name is Tristán
 =====================
-
 <a href="#">Aka AceLord23#8021</a>
--------------
+=====================
 
 * 🌍  I'm based in Nederland, Limburg
 * ✉️  You can contact me at [tristan.nouwens@student.gildeopleidingen.nl](mailto:tristan.nouwens@student.gildeopleidingen.nl)
