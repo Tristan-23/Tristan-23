@@ -3,7 +3,7 @@ Hi 👋 My name is Tristán
 <a href="https://github.com/AceLord23">Aka AceLord23#8021</a>
 =====================
 
-* 🌍  I'm based in Nederland, Limburg
+* 🌍  I'm based in Nederland
 * ✉️  You can contact me at [tristan.nouwens@student.gildeopleidingen.nl](mailto:tristan.nouwens@student.gildeopleidingen.nl)
 * 🧠  I'm learning Software Development at Gildeopleidingen
 <!--- * 🖥️  See my portfolio at [my website](http://mrdeurmat.dev/) --->
